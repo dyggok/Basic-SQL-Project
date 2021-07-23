@@ -1,3 +1,7 @@
+# Basic-SQL-Project11
+
+Aşağıdaki sorgu senaryoları dvdrental örnek veri tabanı üzerinden gerçekleştirilmiştir.
+
 1. **actor** ve **customer** tablolarında bulunan **first_name** sütunları için tüm verileri sıralayalım.
 
 ```sql
