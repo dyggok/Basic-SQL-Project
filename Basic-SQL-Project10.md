@@ -1,5 +1,5 @@
 
-Basic-SQL-Project10
+#Basic-SQL-Project10
 
 Aşağıdaki sorgu senaryoları dvdrental örnek veri tabanı üzerinden gerçekleştirilmiştir.
 
